@@ -1,3 +1,5 @@
+//Eggy Bintang Negara 1817051013//
+
 #include<iostream>
 using namespace std;
 struct node{
